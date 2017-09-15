@@ -1,13 +1,13 @@
 
 Google home
 
-Good
+Good:
 Alarm
 Volume disturbance is low
 Voice selection of the AI is good
 General information retrieval 
 
-Bad
+Bad:
 Does understand Indian Accent
 Offset between volume control is high
 Cannot understand songs that are not English
